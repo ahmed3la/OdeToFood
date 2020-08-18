@@ -12,7 +12,7 @@ using Microsoft.Extensions.Hosting;
  using OdeToFood.Data;
 
 namespace OdeToFood
-{
+{ 
     public class Startup
     {
         public Startup(IConfiguration configuration)
