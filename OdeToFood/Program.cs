@@ -11,7 +11,7 @@ using Microsoft.Extensions.Logging;
 using OdeToFood.Data;
 
 namespace OdeToFood
-{
+{ 
     public class Program
     {
         public static void Main(string[] args)
