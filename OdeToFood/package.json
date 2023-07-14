@@ -2,6 +2,6 @@
   "name": "odetofood",
   "version": "1.0.0",
   "dependencies": {
-    "datatables.net-dt": "^1.10.21"
+    "datatables.net-dt": "^1.13.5"
   }
 }
